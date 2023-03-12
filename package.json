@@ -1,0 +1,24 @@
+{
+  "name": "chat-wss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexRudnyk/Chat-wss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexRudnyk/Chat-wss/issues"
+  },
+  "homepage": "https://github.com/AlexRudnyk/Chat-wss#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1"
+  }
+}
